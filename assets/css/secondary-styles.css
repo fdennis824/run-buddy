@@ -11,9 +11,4 @@
     font-weight: normal;
     font-size: 42px;
     font-style: italic;
-  .hero {
-    border-bottom: 4px;
-    border-style: solid;
-    border-color: #fce138;
-    padding: 0, 80px, 15px, 80px;
   }
